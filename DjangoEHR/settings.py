@@ -85,7 +85,7 @@ WSGI_APPLICATION = 'DjangoEHR.wsgi.application'
 #     }
 #    }
 
-# # version2
+# version2
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
